@@ -10,7 +10,7 @@ Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
-
+   Lumache has its documentation hosted on Read the Docs.
    This project is under active development.
 
 Contents
